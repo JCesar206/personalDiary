@@ -1,12 +1,8 @@
-# React + Vite
+# Project PersonalDiary Personal Journal Project made with React + Tailwind.
+This project is protected with a simple password (simplepassword123).<br>
+Entering the password incorrectly denies access.<br>
+Allows you to post multiple notes, edit them, and delete them. It temporarily stores them in local storage.<br>
+It has a choice of light or dark themes.<br>
+The footer has modern icons and social media links.<br>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Thank you. :octocat:
